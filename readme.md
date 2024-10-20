@@ -48,7 +48,7 @@ This is a simple 3-tier rule engine application that determines user eligibility
 
 Clone the github repository
 
-  git clone https://github.com/sg0097/zeotap_tasks1.git 
+ git clone https://github.com/sg0097/zeotap_tasks1.git 
 
 
 
