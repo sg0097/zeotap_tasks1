@@ -44,11 +44,10 @@ This is a simple 3-tier rule engine application that determines user eligibility
   - Flask
   - SQLite (for database)
 
-Instruction
-Clone the github repository
+**Instruction**
 
-git clone https://github.com/sg0097/zeotap_tasks1.git
-
+Clone the github repository->
+  git clone https://github.com/sg0097/zeotap_tasks1.git
 
 
 
